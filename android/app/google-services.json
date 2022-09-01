@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "630369560604",
+    "project_id": "imsocial-8b237",
+    "storage_bucket": "imsocial-8b237.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630369560604:android:1db65b71429f33821dd7d9",
+        "android_client_info": {
+          "package_name": "com.example.im_social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630369560604-ff1tpk1fnhmehn88gca7dgu3sjfrgqd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuz1JYPmVM6AzbbUa14Rt_CTCdsr0bqyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630369560604-ff1tpk1fnhmehn88gca7dgu3sjfrgqd1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
